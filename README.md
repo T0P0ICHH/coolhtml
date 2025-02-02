@@ -1,6 +1,6 @@
 # coolhtml
 coolhtml is a repo when you can find any cool html files and use it (read license)
-if something is not ok there with license just contact me email is: !> topoichh@blahaj.fun
+if something is not ok there with license just contact me email is: topoichh@blahaj.fun
 
 `IT'S FAQ TIME`
 
@@ -23,4 +23,4 @@ i don't know if i will do it but the site is `topoichh.xyz/coolhtml` in fact you
 
 and i think that's it.
 email me if you want to ask something, im free =)
-!>topoichh@blahaj.fun
+topoichh@blahaj.fun
