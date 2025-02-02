@@ -1,8 +1,8 @@
 # coolhtml
 coolhtml is a repo when you can find any cool html files and use it (read license)
-if im wrong in license lemme know i can delete the license from this repo=)
+if something is not ok there with license just contact me email is: !> topoichh@blahaj.fun
 
-` IT'S FAQ TIME`
+`IT'S FAQ TIME`
 
 ## will this be cool?
 coolhtml has in name word **"cool"** so ofc this will be cool.
