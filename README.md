@@ -21,6 +21,9 @@ i don't know if i will do it but the site is `topoichh.xyz/coolhtml` in fact you
 
 <p>no more faq? alr.</p>
 
+<p>Some HTML Files may not have pictures at all, that means this is problem of local files. If you want to see the pictures upload the .html somewhere (example GitHub Pages) and you will get the result, to view with pictures we will make our site soon so yeah.</p>
+
+
 and i think that's it.
 email me if you want to ask something, im free =)
 topoichh@blahaj.fun
