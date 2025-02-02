@@ -17,7 +17,7 @@ go search other repo's....
 i just find them in my files and that's it.
 
 ## that's cool, what is your site to check these htmls?
-i don't know if i will do it but the site is `topoichh.xyz/coolhtml` in fact you need it. (site may be not done if there is not found nginx ubuntu :=))
+i don't know if i will do it but the site is `topoichh.xyz/coolhtml` in fact you need it. (site may be not done if there is not found nginx ubuntu :=) )
 
 <p>no more faq? alr.</p>
 
